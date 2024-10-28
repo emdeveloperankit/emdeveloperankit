@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm a 19-year-old Full Stack Web Developer</h1>
+# 👋 Hi, I'm a 19-year-old Full Stack Web Developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -48,10 +48,21 @@
 
 ---
 
+### 🎥 Additional Skills
+
+- 📹 **Content Creator**: I explore how to utilize AI tools effectively.
+- 🌐 **Entrepreneurial Mindset**: Passionate about innovative projects.
+- 🐍 Proficient in **Python** for versatile applications.
+- ☁️ Experienced with **AWS** for cloud computing solutions.
+- 💻 Knowledgeable in **Internet and Networking** concepts.
+- 🎨 Skills in **Video Editing**, **UX/UI Design**, and **Figma**.
+
+---
+
 ### 📫 Let's Connect!
 
 - 🐦 [Twitter](https://twitter.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/)
-- 📝 [Portfolio](https://riteshranjan09.netlify.app/)
+- 📝 [Portfolio](https://wwww.netlify.app/)
 
 Feel free to connect with me for collaboration or any exciting projects!
